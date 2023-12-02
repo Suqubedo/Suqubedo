@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suqubedo
 - 👀 I’m interested in neural networks and succubi
-- 🌱 I’m currently learning at RSRTU and just studying neural networks
+- 🌱 I’m currently learning at RGRTU and just studying neural networks
 - 💞️ I’m looking to collaborate on with succubus
 - 📫 How to reach me https://t.me/Monsoon09_11
 
